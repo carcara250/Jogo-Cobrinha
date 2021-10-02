@@ -1,2 +1,1 @@
-# Jogo-Cobrinha
-Exercicio de Recriar o Jogo da Cobrinha
+# PROJETO JOGO DA COBRINHA DO GOOGLE
